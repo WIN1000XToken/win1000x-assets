@@ -1,0 +1,22 @@
+
+WIN 1000X <win1000xtoken@gmail.com>
+2:49 AM (0 minutes ago)
+to me
+
+{
+  "name": "WIN1000X",
+  "symbol": "WIN1000X",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "WIN1000X is a high-potential community-driven token designed for explosive growth and high trading volume.",
+  "website": "https://win1000xtoken.com",
+  "explorer": "https://bscscan.com/token/0xc88c78d93063635b503705aea03664572bc2f209",
+  "status": "active",
+  "id": "win1000x",
+  "links": {
+    "telegram": "https://t.me/WIN1000xtoken",
+    "twitter": "https://x.com/WIN1000Xtoken",
+    "github": "https://github.com/WIN1000XToken",
+    "coingecko": "https://www.coingecko.com/en/coins/win1000x"
+  }
+}
