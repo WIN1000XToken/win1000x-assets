@@ -1,8 +1,4 @@
 
-WIN 1000X <contact@win1000xtoken.com>
-2:49 AM (0 minutes ago)
-to me
-
 {
   "name": "WIN1000X",
   "symbol": "WIN1000X",
@@ -18,5 +14,8 @@ to me
     "twitter": "https://x.com/WIN1000Xtoken",
     "github": "https://github.com/WIN1000XToken",
     "coingecko": "https://www.coingecko.com/en/coins/win1000x"
+  },
+    "email": "contact@win1000xtoken.com"
+  
   }
 }
